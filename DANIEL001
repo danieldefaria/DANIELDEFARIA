@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="TV ABERTA", BAND HD
+http://198.50.184.215/live/5156159/coreurl.me/18727.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV ABERTA", GLOBO HD
+http://198.50.184.215/live/5156159/coreurl.me/18434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", MAX HD
+http://198.50.184.215/live/5156159/coreurl.me/18623.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", MEGAPIX HD
+http://198.50.184.215/live/5156159/coreurl.me/18617.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV ABERTA", RECORDTV SD
+http://198.50.184.215/live/5156159/coreurl.me/18575.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV ABERTA", REDETV HD
+http://198.50.184.215/live/5156159/coreurl.me/18572.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="TV ABERTA", SBT HD
+http://198.50.184.215/live/5156159/coreurl.me/18569.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title="FILMES", SPACE HD
+http://198.50.184.215/live/5156159/coreurl.me/18564.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png" group-title="VARIEDADA", VIVA HD
+http://198.50.184.215/live/5156159/coreurl.me/18515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB MOSAICO
+http://198.50.184.215/live/5156159/coreurl.me/43534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM001
+http://198.50.184.215/live/5156159/coreurl.me/27861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM002
+http://198.50.184.215/live/5156159/coreurl.me/43533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM003
+http://198.50.184.215/live/5156159/coreurl.me/43723.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM004
+http://198.50.184.215/live/5156159/coreurl.me/43720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM005
+http://198.50.184.215/live/5156159/coreurl.me/43551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM006
+http://198.50.184.215/live/5156159/coreurl.me/43554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM007
+http://198.50.184.215/live/5156159/coreurl.me/43719.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM008
+http://198.50.184.215/live/5156159/coreurl.me/43550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM009
+http://198.50.184.215/live/5156159/coreurl.me/43548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24 Horas", BBB CAM010
+http://198.50.184.215/live/5156159/coreurl.me/43546.m3u8
